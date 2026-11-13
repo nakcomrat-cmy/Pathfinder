@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794563025|2969128';
+const CACHE_VERSION = '1794570429|3427480';
 /** @type {string} */
 const CACHE_PREFIX = 'Pathfinder 0.19.-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
